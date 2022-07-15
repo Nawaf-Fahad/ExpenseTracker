@@ -8,7 +8,7 @@ The main view contines two sections (Chart and last five Transactions)
 ## Chart
 using SwiftUICharts package i implemnts chart showing user his/her financial transaction (debit and credit)
 
-![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "Chart")
+![My Image](/Users/nxwaf/Desktop/ExpenseTracker/MainView.png)
 
 in next section ## last Transaction user will see recent transactions
 
