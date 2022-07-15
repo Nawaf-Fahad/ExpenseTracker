@@ -8,14 +8,14 @@ The main view contines two sections (Chart and last five Transactions)
 ## Chart
 using SwiftUICharts package i implemnts chart showing user his/her financial transaction (debit and credit)
 
-![Alt text](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "Chart")
+![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "Chart")
 
 in next section ## last Transaction user will see recent transactions
 
-![Alt text](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "recent transactions")
+![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "recent transactions")
 
 ## Also app work with dark mood 
-![Alt text](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.44.43.png "Dark mood")
+![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.44.43.png "Dark mood")
 
 # importent notes 
 you need to provide a json file for your transaction that contines some importent attrubtue 
