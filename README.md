@@ -8,7 +8,7 @@ The main view contines two sections (Chart and last five Transactions)
 ## Chart
 using SwiftUICharts package i implemnts chart showing user his/her financial transaction (debit and credit)
 
-![Screenshot](Images/MainView.png)
+<img src="Images/MainView.png" alt="drawing" width="200"/>
 
 in next section ## last Transaction user will see recent transactions
 
