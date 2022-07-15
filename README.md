@@ -10,12 +10,19 @@ using SwiftUICharts package i implemnts chart showing user his/her financial tra
 
 <img src="Images/MainView.png" alt="drawing" width="200"/>
 
-in next section ## last Transaction user will see recent transactions
+in next section 
+## last Transaction user will see recent transactions
 
-![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.38.29.png "recent transactions")
+<img src="Images/Recent Transactions.png" alt="drawing" width="200"/>
+
+
+# you can see all transctions sorted by month 
+<img src="Images/Transactions.png" alt="drawing" width="200"/>
+
+
 
 ## Also app work with dark mood 
-![My Image](/Users/nxwaf/Desktop/ExpenseTracker/Simulator Screen Shot - iPhone 13 - 2022-07-02 at 07.44.43.png "Dark mood")
+<img src="Images/Transactions(dark).png" alt="drawing" width="200"/>
 
 # importent notes 
 you need to provide a json file for your transaction that contines some importent attrubtue 
