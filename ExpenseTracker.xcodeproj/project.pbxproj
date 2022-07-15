@@ -75,6 +75,7 @@
 		E7B5CF6B286E7BC100BADB35 = {
 			isa = PBXGroup;
 			children = (
+				E75D0A9528821F1100812E1B /* README.md */,
 				E75D0A962882292E00812E1B /* Images */,
 				E7B5CF76286E7BC100BADB35 /* ExpenseTracker */,
 				E7B5CF75286E7BC100BADB35 /* Products */,
@@ -103,7 +104,6 @@
 				E7B5CF85286E7DC200BADB35 /* Extensions.swift */,
 				E7B5CF7B286E7BC600BADB35 /* Assets.xcassets */,
 				E7B5CF7D286E7BC600BADB35 /* Preview Content */,
-				E75D0A9528821F1100812E1B /* README.md */,
 			);
 			path = ExpenseTracker;
 			sourceTree = "<group>";
